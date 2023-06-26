@@ -28,7 +28,7 @@ function putTodo(todo) {
     console.log(todo);
 }
 
-//function to create post -still need to fix t
+//function to create post 
 function postTodo(todo) {
     // implement your code here
    fetch('api/todo', {
